@@ -1,0 +1,366 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "4454fb8b-0422-473b-831a-35d8d307dbf9",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "a=10\n",
+    "b=20\n",
+    "c=a+b\n",
+    "c"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "a5fae7a0-efad-46e9-ae25-53103f9cb3cf",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "a=100\n",
+    "b=200\n",
+    "c=a+b\n",
+    "c\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "99209b89-462d-424b-a782-b043c726a05d",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "a=10\n",
+    "b=20\n",
+    "c=a+b\n",
+    "c\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "ad69d965-6142-4508-a923-b3a40859acf6",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "a=100\n",
+    "b=200\n",
+    "c=a+b\n",
+    "c"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "06818eb0-86fd-4a89-bbc5-74d6697dd413",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "n1=10\n",
+    "n2=20\n",
+    "n3=n1+n2\n",
+    "n3"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "ec50828f-c802-4e65-8f9c-2af38e914158",
+   "metadata": {},
+   "source": [
+    "i m learning python today"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "ace3a58c-3a6c-46fd-ab27-3af68d1d9653",
+   "metadata": {},
+   "source": [
+    "im learning python today"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "b083b16d-4754-4623-867e-cb103d42f5e1",
+   "metadata": {},
+   "source": []
+  },
+  {
+   "cell_type": "markdown",
+   "id": "ebc50f4c-cdbe-4772-8b24-78bfad03c151",
+   "metadata": {},
+   "source": [
+    "i m learning python today"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "32031a9d-78d8-44e2-9bd4-9d01a004607c",
+   "metadata": {},
+   "source": [
+    "v r learning python lang"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "edfbd212-3e15-43ef-81cf-caa0dfafb4de",
+   "metadata": {},
+   "source": [
+    "# python"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "626cd839-647b-4e73-9a8e-35e2ba70f932",
+   "metadata": {},
+   "source": [
+    "#  python"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "a1e8d4bd-5669-4573-bcd6-1c303bb94264",
+   "metadata": {},
+   "source": [
+    "##  python"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "d69a28c2-2884-42ba-9e66-7789b3b819a6",
+   "metadata": {},
+   "source": [
+    "###   python"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "8ad68377-db61-49b7-9e8a-ddd8efc759a7",
+   "metadata": {},
+   "source": [
+    "# python\n",
+    "\n",
+    "## python\n",
+    "\n",
+    "### python\n",
+    "\n",
+    "\n",
+    "#### esc+m"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "a3a8d63d-c0b3-4d24-ac07-ea212f1573b9",
+   "metadata": {},
+   "source": [
+    "esc+y\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "id": "b9b92fd6-8e18-489d-8860-0bb534d7ab77",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "NameError",
+     "evalue": "name 'esc' is not defined",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[1;31m---------------------------------------------------------------------------\u001b[0m",
+      "\u001b[1;31mNameError\u001b[0m                                 Traceback (most recent call last)",
+      "Cell \u001b[1;32mIn[2], line 7\u001b[0m\n\u001b[0;32m      1\u001b[0m \u001b[38;5;66;03m# python\u001b[39;00m\n\u001b[0;32m      2\u001b[0m \n\u001b[0;32m      3\u001b[0m \u001b[38;5;66;03m##python\u001b[39;00m\n\u001b[0;32m      4\u001b[0m \n\u001b[0;32m      5\u001b[0m \u001b[38;5;66;03m###   python\u001b[39;00m\n\u001b[1;32m----> 7\u001b[0m esc\u001b[38;5;241m+\u001b[39my\n",
+      "\u001b[1;31mNameError\u001b[0m: name 'esc' is not defined"
+     ]
+    }
+   ],
+   "source": [
+    "# python\n",
+    "\n",
+    "##python\n",
+    "\n",
+    "###   python\n",
+    "\n",
+    "esc+y"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "17ebedb8-a94b-4a84-9f60-c882560aeaaa",
+   "metadata": {},
+   "source": [
+    "# python\n",
+    "\n",
+    "##python\n",
+    "\n",
+    "###python\n",
+    "\n",
+    "esc+y"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "6406d7b0-c3c2-47c1-a183-2babbafa5536",
+   "metadata": {},
+   "source": [
+    "# python\n",
+    "\n",
+    "##  python\n",
+    "\n",
+    "###   python"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "024d697f-4907-44dd-92bf-db8b4bc2b0d7",
+   "metadata": {},
+   "source": [
+    "# python\n",
+    "\n",
+    "##  python\n",
+    "\n",
+    "###   python"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "73854a2c-bda8-44e3-a52e-b77e6cd17217",
+   "metadata": {},
+   "source": [
+    "# python\n",
+    "\n",
+    "##  python\n",
+    "###   python"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "8c9860dd-2fab-4d88-9b8b-710d8c31bab4",
+   "metadata": {},
+   "source": [
+    "# python\n",
+    "\n",
+    "##  python\n",
+    "\n",
+    "###    python"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "id": "7a6609a4-a570-4bc9-86b3-fd3e20862224",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# python\n",
+    "##  python\n",
+    "###   python"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "538ca875-88a7-4228-aab9-d864a4762a68",
+   "metadata": {},
+   "source": [
+    "# python\n",
+    "\n",
+    "##  python\n",
+    "\n",
+    "###    python"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 4,
+   "id": "192300f8-6dfc-4c7f-8380-cd163166e387",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# python\n",
+    "\n",
+    "##  python\n",
+    "\n",
+    "###     python"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 5,
+   "id": "900ac808-ac02-45c6-85d2-706dd9b2d1b0",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# python\n",
+    "\n",
+    "##  python\n",
+    "\n",
+    "###   python"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "0f59a9b9-8670-4faa-acc3-65e10dd5dbaa",
+   "metadata": {},
+   "source": [
+    "# python\n",
+    "\n",
+    "##  python\n",
+    "\n",
+    "###      python"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 6,
+   "id": "8e5da66b-9810-410c-b844-29f660a42cfa",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# python\n",
+    "\n",
+    "##  python\n",
+    "\n",
+    "###   python"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "cf27d8e7-0370-4418-963e-f40d5a28c524",
+   "metadata": {},
+   "source": [
+    "i learnt python\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "683cd203-fdcc-42d8-a29e-7ae31417a3f7",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.12.4"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
